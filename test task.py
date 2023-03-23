@@ -1,6 +1,6 @@
 import paramiko
 import psycopg2
-import subprocess
+
 
 # Параметры серверов
 SERVER_A = '10.0.0.1'
